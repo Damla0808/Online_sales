@@ -5,6 +5,8 @@ Bu proje online satıştaki verilerin incelenmesini içermektedir.
 - 12 farklı ülkenin satış verileri incelenmiştir.
 - Analiz edilen veri setinde eksik deger (null) bulunmaktadır.
 - Veriler, InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country, Discount, PaymentMethod, ShippingCost, Category, SalesChannel, ReturnStatus, ShipmentProvider, WarehouseLocation, OrderPriority bilgilerini icermektedir.
+
+
 **Verinin Genel Yapisi**
 Veri Setinin Sutunlari (Toplam 17 sutun):
 
@@ -30,6 +32,7 @@ Veri Setinin Sutunlari (Toplam 17 sutun):
 
 
 **Veri tipi dagilimi:** float64(4), int64(2), object(11)
+
 **Bellek kullanimi:**  6.5+ MB
 
 **One Cikan Bulgular**
