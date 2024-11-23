@@ -1,1 +1,1 @@
-# Online_sales2
+#Online Satış Veri İncelemesi
