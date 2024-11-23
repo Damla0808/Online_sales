@@ -1,1 +1,1 @@
-#Online Satış Veri İncelemesi
+Online Satış Veri İncelemesi
