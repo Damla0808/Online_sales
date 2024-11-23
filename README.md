@@ -8,25 +8,25 @@ Bu proje online satıştaki verilerin incelenmesini içermektedir.
 **Verinin Genel Yapisi**
 Veri Setinin Sutunlari (Toplam 17 sutun):
 
- #    |  Column                |    Non-Null | Count    | Dtype  
----   ------                    --------------  -----  
- 0    |  InvoiceNo             |   49782  | non-null  |   int64  
- 1    | StockCode              |   49782   | non-null  | object 
- 2    |  Description           |   49782   | non-null     |object 
- 3    |   Quantity             |   49782   |non-null    | int64  
- 4    |  InvoiceDate           |   49782   |non-null     |object 
- 5    |   UnitPrice            |   49782   | non-null    | float64
- 6    |   CustomerID           |   44804   | non-null    | float64
- 7    |   Country              |   49782   | non-null    | object 
- 8    |   Discount             |   49782   |non-null     |float64
- 9    |   PaymentMethod        |   49782   | non-null    | object 
- 10   |  ShippingCost          |   47293   | non-null    | float64
- 11   |  Category              |  49782    |non-null    | object 
- 12   |  SalesChannel          |  49782    |non-null    | object 
- 13   |  ReturnStatus          |  49782    |non-null   |  object 
- 14   |  ShipmentProvider      |  49782    |non-null     |object 
- 15   |  WarehouseLocation     | 46297    |non-null    | object 
- 16   |  OrderPriority         | 49782    |non-null   |  object 
+ #    |  Column                |    Non-Null | Count    | Dtype  |
+|---   ------                    --------------  -----  |
+| 0    |  InvoiceNo             |   49782  | non-null  |   int64  |
+| 1    | StockCode              |   49782   | non-null  | object |
+| 2    |  Description           |   49782   | non-null     |object |
+| 3    |   Quantity             |   49782   |non-null    | int64  |
+| 4    |  InvoiceDate           |   49782   |non-null     |object |
+ |5    |   UnitPrice            |   49782   | non-null    | float64|
+ |6    |   CustomerID           |   44804   | non-null    | float64|
+| 7    |   Country              |   49782   | non-null    | object |
+| 8    |   Discount             |   49782   |non-null     |float64|
+ |9    |   PaymentMethod        |   49782   | non-null    | object |
+ |10   |  ShippingCost          |   47293   | non-null    | float64|
+| 11   |  Category              |  49782    |non-null    | object |
+ |12   |  SalesChannel          |  49782    |non-null    | object |
+| 13   |  ReturnStatus          |  49782    |non-null   |  object |
+| 14   |  ShipmentProvider      |  49782    |non-null     |object |
+| 15   |  WarehouseLocation     | 46297    |non-null    | object |
+| 16   |  OrderPriority         | 49782    |non-null   |  object |
 **Veri tipi dagilimi**: float64(4), int64(2), object(11)
 **Bellek kullanimi**:  6.5+ MB
 
