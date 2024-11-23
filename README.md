@@ -1,7 +1,7 @@
 # Online Satış Veri İncelemesi
 Bu proje online satıştaki verilerin incelenmesini içermektedir.
 
-* **Proje Ozeti** 
+ **Proje Ozeti** 
 - 12 farklı ülkenin satış verileri incelenmiştir.
 - Analiz edilen veri setinde eksik deger (null) bulunmaktadır.
 - Veriler, InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country, Discount, PaymentMethod, ShippingCost, Category, SalesChannel, ReturnStatus, ShipmentProvider, WarehouseLocation, OrderPriority bilgilerini icermektedir.
@@ -29,11 +29,11 @@ Veri Setinin Sutunlari (Toplam 17 sutun):
 | 16   |  OrderPriority         | 49782    |non-null   |  object |
 
 
-**Veri tipi dagilimi**: float64(4), int64(2), object(11)
-**Bellek kullanimi**:  6.5+ MB
+**Veri tipi dagilimi:** float64(4), int64(2), object(11)
+**Bellek kullanimi:**  6.5+ MB
 
 **One Cikan Bulgular**
-- **Kayıp Değerler**: Analiz edilen veri setinde kayip deger tespit edilmiştir.
+- **Kayıp Değerler:** Analiz edilen veri setinde kayip deger tespit edilmiştir.
 - En çok **White Mug** ürününden satılmıştır.
 - En çok satış yapılan kategori **Furniture** dır.
 
