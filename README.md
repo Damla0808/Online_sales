@@ -43,7 +43,7 @@ Veri Setinin Sutunlari (Toplam 17 sutun):
 ## **Projenin Amaci ve Yontemi**
 Bu projede, online satıştaki bazı verilerin karsilastirilmasi hedeflenmistir. Kesifsel veri analizi (EDA) yontemleri kullanilarak veri incelenmis ve sonuclar gorsellestirilmistir. 
 
-Kaggle Linki : (https://www.kaggle.com/code/damlaentrk/online-sales)
+Kaggle Linki : https://www.kaggle.com/code/damlaentrk/online-sales
 
 
 
