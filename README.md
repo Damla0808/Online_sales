@@ -1,13 +1,13 @@
 # Online Satış Veri İncelemesi
 Bu proje online satıştaki verilerin incelenmesini içermektedir.
 
- **Proje Ozeti** 
+## **Proje Ozeti** 
 - 12 farklı ülkenin satış verileri incelenmiştir.
 - Analiz edilen veri setinde eksik deger (null) bulunmaktadır.
 - Veriler, InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country, Discount, PaymentMethod, ShippingCost, Category, SalesChannel, ReturnStatus, ShipmentProvider, WarehouseLocation, OrderPriority bilgilerini icermektedir.
 
 
-**Verinin Genel Yapisi**
+## **Verinin Genel Yapisi**
 Veri Setinin Sutunlari (Toplam 17 sutun):
 
 |  Column                |    Non-Null | Count    | Dtype  |
@@ -35,12 +35,12 @@ Veri Setinin Sutunlari (Toplam 17 sutun):
 
 **Bellek kullanimi:**  6.5+ MB
 
-**One Cikan Bulgular**
+## **One Cikan Bulgular**
 - **Kayıp Değerler:** Analiz edilen veri setinde kayip deger tespit edilmiştir.
 - En çok **White Mug** ürününden satılmıştır.
 - En çok satış yapılan kategori **Furniture** dır.
 
-**Projenin Amaci ve Yontemi**
+## **Projenin Amaci ve Yontemi**
 Bu projede, online satıştaki bazı verilerin karsilastirilmasi hedeflenmistir. Kesifsel veri analizi (EDA) yontemleri kullanilarak veri incelenmis ve sonuclar gorsellestirilmistir. 
 
 Kaggle Linki : https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset
