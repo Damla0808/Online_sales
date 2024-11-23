@@ -27,6 +27,8 @@ Veri Setinin Sutunlari (Toplam 17 sutun):
 | 14   |  ShipmentProvider      |  49782    |non-null     |object |
 | 15   |  WarehouseLocation     | 46297    |non-null    | object |
 | 16   |  OrderPriority         | 49782    |non-null   |  object |
+
+
 **Veri tipi dagilimi**: float64(4), int64(2), object(11)
 **Bellek kullanimi**:  6.5+ MB
 
