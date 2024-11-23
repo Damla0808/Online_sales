@@ -8,8 +8,8 @@ Bu proje online satıştaki verilerin incelenmesini içermektedir.
 **Verinin Genel Yapisi**
 Veri Setinin Sutunlari (Toplam 17 sutun):
 
- #    |  Column                |    Non-Null | Count    | Dtype  |
-|---   ------                    --------------  -----  |
+|  Column                |    Non-Null | Count    | Dtype  |
+|---  | ------             |       -------------- | -----  |
 | 0    |  InvoiceNo             |   49782  | non-null  |   int64  |
 | 1    | StockCode              |   49782   | non-null  | object |
 | 2    |  Description           |   49782   | non-null     |object |
